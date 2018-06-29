@@ -1,21 +1,18 @@
-/* 
 
-*/
 body {
 font-family: 'Lato', sans-serif;
 	font-size: 19px;
 	font-weight: 100;
 }
 
-a, button { transition: all 0.3s ease; }
-a {	color: #666; }
-a:hover,
-a:focus {
-	color: #4EA7FF;
-	text-decoration: none;
-	outline: none;
+.demo-home {
+  width: 1440px;
+  height: 4389px;
+  background-color: #ffffff;
 }
 
+
+/* ============================== my style ==========================================*/
 p { color: #666; }
 h3 { margin-bottom: 2.5rem; }
 
