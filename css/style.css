@@ -620,7 +620,7 @@ h4.sec4tyl.sec6tyl {
 /* ============================== responsiveness ==========================================*/
 
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
 	.sci-top,.sec2,.sec4,.sec5{
 display:inline-block;
 	}
